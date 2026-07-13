@@ -1,0 +1,14 @@
+Comandos utilizados
+
+Item 3 - Alterar as permissões do arquivo:
+chmod 744 calculadora.sh
+
+Verificar as permissões:
+ls -l calculadora.sh
+
+Item 4 - Executar o script:
+./calculadora.sh
+
+Item 5 - (Criação e edição do arquivo, se solicitado)
+touch calculadora.sh
+nano calculadora.sh
